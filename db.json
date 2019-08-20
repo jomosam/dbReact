@@ -1,3 +1,6 @@
 {
-    "token": "QpwL5tke4Pnpja7X4"
+  "login":[ {
+    "username": "my name",
+    "role": ["admin"]
+  }]
 }
